@@ -16,4 +16,4 @@ one day i will fix it
 
 case this dosen't work try: 
 
->python3 humgman.py #hung man 
+>python3 humgman.py
