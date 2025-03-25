@@ -56,7 +56,7 @@ def main(run:bool):
                 run = False
             hung.checking(yourinput)
 
-            if(show[0:-1] ==place[0:-1]):
+            if(show[0:-1] ==place[0:-1] and len(show) == len(place): #fix partially the bug 
                 print("you win")
                 print(f"word:{value}")
                 run =False
