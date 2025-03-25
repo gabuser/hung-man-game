@@ -11,6 +11,8 @@ run in the terminal or any editor you like the following command:
 all the libs used on this project are from the standard python, so you don't have to install any.
 
 For Portuguese speakers, do not use accents, as it may cause unexpected behavior.
+also, I forgot to mention: try to not put words that repeats itself, because it donsen't accept duplicate words.
+one day i will fix it
 
 case this dosen't work try: 
 
