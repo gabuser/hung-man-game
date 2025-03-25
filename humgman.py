@@ -1,14 +1,3 @@
-"""
-primeiro preciso desenhar o hungmang
-
-segundo pegar a sentença do usuário e separar isso por caracter: indice/caracter
-
-terceiro criar uma estrutura de repetição que busca os caracteres que o usuário coloca
-se ele acertar agente resgata a posição do caracter e adiciona no novo. 
-
-toda vez que ele acertar é necessário colocar dentro da lista e toda vez que erra o boneco vai aparecendo.
-
-"""
 import random
 word:list
 value:str
